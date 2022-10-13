@@ -8,4 +8,4 @@
 <!--![pepe-d-pepe](https://user-images.githubusercontent.com/89903108/195662305-2ebf94ca-c41a-4be6-919e-892c892a0ce6.gif)-->
 
 
-<img width="25%" src="https://user-images.githubusercontent.com/89903108/195662305-2ebf94ca-c41a-4be6-919e-892c892a0ce6.gif"/>
+<img width="10%" src="https://user-images.githubusercontent.com/89903108/195662305-2ebf94ca-c41a-4be6-919e-892c892a0ce6.gif"/>
